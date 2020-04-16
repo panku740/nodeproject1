@@ -1,0 +1,24 @@
+{
+  "packageId": "com.appspot.pwa_directory.twa",
+  "host": "pwa-directory.appspot.com",
+  "name": "blog",
+  "launcherName": "blog",
+  "themeColor": "#7CC0FF",
+  "navigationColor": "#000000",
+  "backgroundColor": "#7CC0FF",
+  "enableNotifications": false,
+  "startUrl": "/?utm_source=homescreen",
+  "iconUrl": "https://pwa-directory.appspot.com/favicons/android-chrome-512x512.png",
+  "splashScreenFadeOutDuration": 300,
+  "signingKey": {
+    "alias": "android",
+    "path": "./android.keystore"
+  },
+  "appVersionName": "1",
+  "appVersionCode": 1,
+  "shortcuts": [],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "https://pwa-directory.appspot.com/manifest.json",
+  "fallbackType": "customtabs",
+  "appVersion": "1"
+}
